@@ -1,9 +1,9 @@
 <pre class='metadata'>
-Title: Your Spec Title
-Shortname: your-spec
+Title: TrinPod Documentation
+Shortname: trinpod-docs
 Level: 1
-Status: w3c/CG-DRAFT
-Group: w3c-ccg
+Status: DRAFT
+Group: Graphmetrix
 URL: Your spec url
 Editor: Your Name, Your Company http://example.com/your-company, your-email@example.com, http://example.com/your-personal-website
 Abstract: A short description of your spec, one or two sentences.
