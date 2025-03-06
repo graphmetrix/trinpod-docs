@@ -10,9 +10,10 @@ on:
   pull_request:
     branches: [ main ]
 jobs:
-  main:
+  build:
     name: Build, Validate and Deploy
     runs-on: ubuntu-18.04
+    
     steps:
       - uses: actions/checkout@v2
 
