@@ -13,9 +13,9 @@ Default Highlight: html
 
 Introduction {#intro}
 =====================
-
-Introduction here.
-
-Test for actions, and yet another test, but wait, there's more!
-
-And when that fails, try again... and again, how to get gh-pages to work?  Yes? No? Maybe?
+Purpose
+This document describes how to send data to Trinpods, and how to receive/request data from Trinpods. 
+Interface identity
+App.Trinpod.Interface
+Definitions and abbreviations
+Resources: A resource of an interface represents a function, method, data stream, global variable, message end point, event trigger or any addressable facility within that Interface
