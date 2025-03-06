@@ -3,7 +3,7 @@ Title: TrinPod Documentation
 Shortname: trinpod-docs
 Level: 1
 Status: LS
-Group: W3C
+Org: W3C
 URL: Trying to figure that out... Your spec url
 Editor: Your Name, Your Company http://example.com/your-company, your-email@example.com, http://example.com/your-personal-website
 Abstract: A short description of your spec, one or two sentences.
